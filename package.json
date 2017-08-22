@@ -1,22 +1,22 @@
 {
-  "name": "rmyf-fetch",
-  "version": "0.0.1",
-  "description": "fetch API",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rmyf/rmyf-fetch.git"
-  },
-  "author": "rémy FURNARI",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rmyf/rmyf-fetch/issues"
-  },
-  "homepage": "https://github.com/Rmyf/rmyf-fetch#readme",
-  "dependencies": {
-    "xmlhttprequest": "^1.8.0"
-  }
+    "name": "rmyf-fetch",
+    "version": "0.0.1",
+    "description": "fetch API",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Rmyf/rmyf-fetch.git"
+    },
+    "author": "rémy FURNARI",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Rmyf/rmyf-fetch/issues"
+    },
+    "homepage": "https://github.com/Rmyf/rmyf-fetch#readme",
+    "dependencies": {
+        "xmlhttprequest": "^1.8.0"
+    }
 }
